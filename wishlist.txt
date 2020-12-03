@@ -3,72 +3,74 @@ dimwishlist:item=1641430382&perks=2405638014,1561002382,706527188,1546637391
 dimwishlist:item=-1216130969&perks=1019291327,839105230,2420895100,4071163871,3108830275,4248210736,2323986101,4283235143,2931483505
 dimwishlist:item=-3906357379&perks=1636108362,2732913576,1561002382,706527188,4248210736
 
+dimwishlist:item=253196586
 
 
 
 
 
-//----- AUTO RIFLE  --- ARCTIC HAZE -----
-     dimwishlist:item=20935540
+
+//----- AUTO RIFLE  --- ARCTIC HAZE -----//----- AUTO RIFLE  --- ARCTIC HAZE -----
+dimwishlist:item=20935540
 //----- AUTO RIFLE  --- THE SUMMONER (ADEPT) -----
-     dimwishlist:item=3514144928
+dimwishlist:item=3514144928
 //----- COMBAT BOW  --- BITING WINDS -----
-     dimwishlist:item=1621657423
+dimwishlist:item=1621657423
 //----- FUSION RIFLE  --- CORIOLIS FORCE -----
-     dimwishlist:item=3512349612
+dimwishlist:item=3512349612
 //----- FUSION RIFLE  --- EXILE'S CURSE (ADEPT) -----
-     dimwishlist:item=276080079
+dimwishlist:item=276080079
 //----- GRENADE LAUNCHER  --- BLAST BATTUE -----
-     dimwishlist:item=2453357042
+dimwishlist:item=2453357042
 //----- GRENADE LAUNCHER  --- CROWD PLEASER -----
-     dimwishlist:item=3565520715
+dimwishlist:item=3565520715
 //----- GRENADE LAUNCHER  --- DEAFENING WHISPER -----
-     dimwishlist:item=981718087
+dimwishlist:item=981718087
 //----- HAND CANNON  --- POSTERITY -----
-     dimwishlist:item=3281285075
+dimwishlist:item=3281285075
 //----- HAND CANNON  --- THE STEADY HAND -----
-     dimwishlist:item=2220884262
+dimwishlist:item=2220884262
 //----- LINEAR FUSION RIFLE  --- CORSAIR'S WRATH -----
-     dimwishlist:item=2714022207
+dimwishlist:item=2714022207
 //----- MACHINE GUN  --- COMMEMORATION -----
-     dimwishlist:item=4230965989
+dimwishlist:item=4230965989
 //----- MACHINE GUN  --- THERMAL EROSION -----
-     dimwishlist:item=1766088024
+dimwishlist:item=1766088024
 //----- PULSE RIFLE  --- HAILING CONFUSION -----
-     dimwishlist:item=-2870169846
+dimwishlist:item=-2870169846
 //----- PULSE RIFLE  --- STARS IN SHADOW -----
-     dimwishlist:item=-2050789284
+dimwishlist:item=-2050789284
 //----- ROCKET LAUNCHER  --- SUBZERO SALVO -----
-     dimwishlist:item=42351395
+dimwishlist:item=42351395
 //----- ROCKET LAUNCHER  --- TOMORROW'S ANSWER (ADEPT) -----
-     dimwishlist:item=1366917989
+dimwishlist:item=1366917989
 //----- SCOUT RIFLE  --- ROYAL CHASE -----
-     dimwishlist:item=2776503072
+dimwishlist:item=2776503072
 //----- SCOUT RIFLE  --- THE GUIDING SIGHT -----
-     dimwishlist:item=1641430382
+dimwishlist:item=1641430382
 //----- SCOUT RIFLE  --- THE SCHOLAR (ADEPT) -----
-     dimwishlist:item=2386979999
+dimwishlist:item=2386979999
 //----- SCOUT RIFLE  --- TRUSTEE -----
-     dimwishlist:item=1392919471
+dimwishlist:item=1392919471
 //----- SHOTGUN  --- ASTRAL HORIZON (ADEPT) -----
-     dimwishlist:item=-532746994
+dimwishlist:item=-532746994
 //----- SHOTGUN  --- BONECHILLER -----
-     dimwishlist:item=-4037745684
+dimwishlist:item=-4037745684
 //----- SHOTGUN  --- HERITAGE -----
-     dimwishlist:item=-4248569242
+dimwishlist:item=-4248569242
 //----- SHOTGUN  --- XENOCLAST IV -----
-     dimwishlist:item=-2891672170
+dimwishlist:item=-2891672170
 //----- SIDEARM  --- HIGH ALBEDO -----
-     dimwishlist:item=-1197486957
+dimwishlist:item=-1197486957
 //----- SNIPER RIFLE  --- ADORED -----
-     dimwishlist:item=4184808992
+dimwishlist:item=4184808992
 //----- SNIPER RIFLE  --- EYE OF SOL (ADEPT) -----
-     dimwishlist:item=3637570176
+dimwishlist:item=3637570176
 //----- SNIPER RIFLE  --- LONG SHADOW -----
-     dimwishlist:item=2359504847
+dimwishlist:item=2359504847
 //----- SNIPER RIFLE  --- SUCCESSION -----
-     dimwishlist:item=2990047042
+dimwishlist:item=2990047042
 //----- SUBMACHINE GUN  --- FRICTION FIRE -----
-     dimwishlist:item=-1513993763
+dimwishlist:item=-1513993763
 //----- SWORD  --- BEQUEST -----
-     dimwishlist:item=3366545721
+dimwishlist:item=3366545721
