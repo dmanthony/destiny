@@ -246,7 +246,8 @@ dimwishlist:item=2807687156
 //----- SEVENTH SERAPH VY-7 --- SUBMACHINE GUN -----
 dimwishlist:item=766323545
 //----- INTERFERENCE VI --- GRENADE LAUNCHER -----
-"dimwishlist:item=-2257180473 dimwishlist:item=2257180473&perks=3300816228"
+dimwishlist:item=-2257180473
+dimwishlist:item=2257180473&perks=3300816228
 //----- SEVENTH SERAPH SAW --- MACHINE GUN -----
 dimwishlist:item=2582755344
 //----- HONOR'S EDGE --- SWORD -----
