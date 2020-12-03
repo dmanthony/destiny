@@ -35,7 +35,7 @@ dimwishlist:item=-2870169846
 //----- PULSE RIFLE  --- STARS IN SHADOW -----
 dimwishlist:item=-2050789284
 //----- ROCKET LAUNCHER  --- SUBZERO SALVO -----
-dimwishlist:item=42351395
+dimwishlist:item=-42351395
 //----- ROCKET LAUNCHER  --- TOMORROW'S ANSWER (ADEPT) -----
 dimwishlist:item=1366917989
 //----- SCOUT RIFLE  --- ROYAL CHASE -----
