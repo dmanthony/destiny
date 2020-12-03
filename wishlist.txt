@@ -3,7 +3,6 @@ dimwishlist:item=1641430382&perks=2405638014,1561002382,706527188,1546637391
 
 dimwishlist:item=253196586&perks=984527513
 
-dimwishlist:item=-991314988&perks=3977735242
 
 
 
@@ -208,3 +207,11 @@ dimwishlist:item=3629968765
 dimwishlist:item=4230993599
 //----- TEMPTATION'S HOOK --- SWORD -----
 dimwishlist:item=35794111
+
+
+
+//–––– NO WAY JOSE ––––
+
+
+
+dimwishlist:item=-991314988&perks=3977735242
