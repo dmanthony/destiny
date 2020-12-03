@@ -3,6 +3,8 @@ dimwishlist:item=1641430382&perks=2405638014,1561002382,706527188,1546637391
 
 dimwishlist:item=253196586&perks=984527513
 
+dimwishlist:item=991314988&perks=984527513
+
 //----- ----- SEASON 11 ----- -----
 
 //----- AUTO RIFLE  --- FALSE PROMISES -----
