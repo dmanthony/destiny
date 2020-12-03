@@ -164,7 +164,7 @@ dimwishlist:item=1200824700
 //----- NATURE OF THE BEAST --- HAND CANNON -----
 dimwishlist:item=1835747805
 //----- LAST PERDITION --- PULSE RIFLE -----
-dimwishlist:item=188882152
+dimwishlist:item=-188882152
 //----- FIRST IN, LAST OUT --- SHOTGUN -----
 dimwishlist:item=-3616586446
 //----- IKELOS_SG_V1.0.2 --- SHOTGUN -----
