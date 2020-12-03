@@ -12,90 +12,129 @@ dimwishlist:item=253196586&perks=984527513
 //–––– MAX POWER 1410 ––––
 //----- ACCRUED REDEMPTION --- COMBAT BOW -----
 dimwishlist:item=4095896073
+
 //----- BITING WINDS --- COMBAT BOW -----
 dimwishlist:item=1621657423
+
 //----- THE STEADY HAND --- HAND CANNON -----
 dimwishlist:item=2220884262
+
 //----- CHATTERING BONE --- PULSE RIFLE -----
+
 dimwishlist:item=-568515759
 //----- HAILING CONFUSION --- PULSE RIFLE -----
+
 dimwishlist:item=-2870169846
 //----- SACRED PROVENANCE --- PULSE RIFLE -----
+
 dimwishlist:item=-2408405461
 //----- THE GUIDING SIGHT --- SCOUT RIFLE -----
 dimwishlist:item=1641430382
+
 //----- TRANSFIGURATION --- SCOUT RIFLE -----
 dimwishlist:item=3799980700
+
 //----- HERITAGE --- SHOTGUN -----
+
 dimwishlist:item=-4248569242
 //----- HIGH ALBEDO --- SIDEARM -----
 dimwishlist:item=1197486957
+
 //----- SUCCESSION --- SNIPER RIFLE -----
 dimwishlist:item=2990047042
+
 //----- THE SUPREMACY --- SNIPER RIFLE -----
 dimwishlist:item=686951703
+
 //----- FRICTION FIRE --- SUBMACHINE GUN -----
-dimwishlist:item=1513993763
+
+dimwishlist:item=-1513993763
 //----- AGE-OLD BOND --- AUTO RIFLE -----
 dimwishlist:item=601592879
+
 //----- ARCTIC HAZE --- AUTO RIFLE -----
 dimwishlist:item=20935540
+
 //----- RECKLESS ORACLE --- AUTO RIFLE -----
 dimwishlist:item=3385326721
+
 //----- TYRANNY OF HEAVEN --- COMBAT BOW -----
 dimwishlist:item=2721249463
+
 //----- CORIOLIS FORCE --- FUSION RIFLE -----
 dimwishlist:item=3512349612
+
 //----- TECHEUN FORCE --- FUSION RIFLE -----
 dimwishlist:item=4094657108
+
 //----- ZEALOT'S REWARD --- FUSION RIFLE -----
 dimwishlist:item=2209003210
+
 //----- DEAFENING WHISPER --- GRENADE LAUNCHER -----
 dimwishlist:item=981718087
+
 //----- ANCIENT GOSPEL --- HAND CANNON -----
 dimwishlist:item=48643186
+
 //----- NATION OF BEASTS --- HAND CANNON -----
 dimwishlist:item=654370424
+
 //----- POSTERITY --- HAND CANNON -----
 dimwishlist:item=3281285075
+
 //----- STARS IN SHADOW --- PULSE RIFLE -----
+
 dimwishlist:item=-2050789284
 //----- ROYAL CHASE --- SCOUT RIFLE -----
 dimwishlist:item=2776503072
+
 //----- TRUSTEE --- SCOUT RIFLE -----
 dimwishlist:item=1392919471
+
 //----- BONECHILLER --- SHOTGUN -----
+
 dimwishlist:item=-4037745684
 //----- PROPHET OF DOOM --- SHOTGUN -----
+
 dimwishlist:item=-4020742303
 //----- XENOCLAST IV --- SHOTGUN -----
+
 dimwishlist:item=-2891672170
 //----- DRANG --- SIDEARM -----
 dimwishlist:item=2362471600
+
 //----- ADORED --- SNIPER RIFLE -----
 dimwishlist:item=4184808992
+
 //----- OMNISCIENT EYE --- SNIPER RIFLE -----
 dimwishlist:item=3454326177
+
 //----- MIDA MINI-TOOL --- SUBMACHINE GUN -----
 dimwishlist:item=3089417788
+
 //----- BLAST BATTUE --- GRENADE LAUNCHER -----
 dimwishlist:item=2453357042
+
 //----- CROWD PLEASER --- GRENADE LAUNCHER -----
 dimwishlist:item=3565520715
+
 //----- CORSAIR'S WRATH --- LINEAR FUSION RIFLE -----
 dimwishlist:item=2714022207
+
 //----- COMMEMORATION --- MACHINE GUN -----
 dimwishlist:item=4230965989
+
 //----- THERMAL EROSION --- MACHINE GUN -----
 dimwishlist:item=1766088024
+
 //----- APEX PREDATOR --- ROCKET LAUNCHER -----
 dimwishlist:item=2545083870
+
 //----- SUBZERO SALVO --- ROCKET LAUNCHER -----
 dimwishlist:item=42351395
+
 //----- BEQUEST --- SWORD -----
 dimwishlist:item=3366545721
-
-
 
 
 
@@ -104,113 +143,162 @@ dimwishlist:item=3366545721
 //–––– MAX POWER 1360 ––––
 //----- BRAYTECH WEREWOLF --- AUTO RIFLE -----
 dimwishlist:item=528834068
+
 //----- FALSE PROMISES --- AUTO RIFLE -----
 dimwishlist:item=3143732432
+
 //----- HORROR STORY --- AUTO RIFLE -----
 dimwishlist:item=3829285960
+
 //----- THE FORWARD PATH --- AUTO RIFLE -----
 dimwishlist:item=1690783811
+
 //----- WHISPERING SLAB --- COMBAT BOW -----
 dimwishlist:item=211938782
+
 //----- CRIMIL'S DAGGER --- HAND CANNON -----
 dimwishlist:item=4292849692
+
 //----- COLD DENIAL --- PULSE RIFLE -----
+
 dimwishlist:item=-1216130969
 //----- NIGHT WATCH --- SCOUT RIFLE -----
 dimwishlist:item=3504336176
+
 //----- TALONS OF THE EAGLE --- SCOUT RIFLE -----
 dimwishlist:item=1982711279
+
 //----- THE SCHOLAR --- SCOUT RIFLE -----
 dimwishlist:item=2478792241
+
 //----- THE SCHOLAR (ADEPT) --- SCOUT RIFLE -----
 dimwishlist:item=2386979999
+
 //----- ASTRAL HORIZON --- SHOTGUN -----
+
 dimwishlist:item=-1697682876
 //----- ASTRAL HORIZON (ADEPT) --- SHOTGUN -----
+
 dimwishlist:item=-532746994
 //----- TOIL AND TROUBLE --- SHOTGUN -----
+
 dimwishlist:item=-2957367743
 //----- LONESOME --- SIDEARM -----
 dimwishlist:item=2199171672
+
 //----- BITE OF THE FOX --- SNIPER RIFLE -----
 dimwishlist:item=3169616514
+
 //----- EYE OF SOL --- SNIPER RIFLE -----
 dimwishlist:item=3164743584
+
 //----- EYE OF SOL (ADEPT) --- SNIPER RIFLE -----
 dimwishlist:item=3637570176
+
 //----- LONG SHADOW --- SNIPER RIFLE -----
 dimwishlist:item=3745990145
+
 //----- GNAWING HUNGER --- AUTO RIFLE -----
 dimwishlist:item=821154603
+
 //----- THE SUMMONER --- AUTO RIFLE -----
 dimwishlist:item=1907698332
+
 //----- THE SUMMONER (ADEPT) --- AUTO RIFLE -----
 dimwishlist:item=3514144928
+
 //----- ARSENIC BITE-4B --- COMBAT BOW -----
 dimwishlist:item=720351795
+
 //----- EXILE'S CURSE --- FUSION RIFLE -----
 dimwishlist:item=679281855
+
 //----- EXILE'S CURSE (ADEPT) --- FUSION RIFLE -----
 dimwishlist:item=276080079
+
 //----- HOLLOW WORDS --- FUSION RIFLE -----
 dimwishlist:item=607191995
+
 //----- MAIN INGREDIENT --- FUSION RIFLE -----
 dimwishlist:item=253196586
+
 //----- OREWING'S MAUL --- GRENADE LAUNCHER -----
 dimwishlist:item=2108920981
+
 //----- TRUTHTELLER --- GRENADE LAUNCHER -----
 dimwishlist:item=1946491241
+
 //----- IKELOS_HC_V1.0.2 --- HAND CANNON -----
 dimwishlist:item=1200824700
+
 //----- NATURE OF THE BEAST --- HAND CANNON -----
 dimwishlist:item=1835747805
+
 //----- LAST PERDITION --- PULSE RIFLE -----
+
 dimwishlist:item=-188882152
 //----- FIRST IN, LAST OUT --- SHOTGUN -----
+
 dimwishlist:item=-3616586446
 //----- IKELOS_SG_V1.0.2 --- SHOTGUN -----
+
 dimwishlist:item=-1096206669
 //----- WISHBRINGER --- SHOTGUN -----
+
 dimwishlist:item=-3356526253
 //----- THE FOOL'S REMEDY --- SIDEARM -----
 dimwishlist:item=65611680
+
 //----- THE LAST DANCE --- SIDEARM -----
 dimwishlist:item=2009277538
+
 //----- IKELOS_SR_V1.0.2 --- SNIPER RIFLE -----
 dimwishlist:item=1253087083
+
 //----- WIDOW'S BITE --- SNIPER RIFLE -----
 dimwishlist:item=1271343896
+
 //----- DEATH ADDER --- SUBMACHINE GUN -----
-dimwishlist:item=-2742490609
+dimwishlist:item=2742490609
+
 //----- IKELOS_SMG_V1.0.2 --- SUBMACHINE GUN -----
-dimwishlist:item=-2222560548
+dimwishlist:item=2222560548
+
 //----- BERENGER'S MEMORY --- GRENADE LAUNCHER -----
 dimwishlist:item=407621213
+
 //----- OUTRAGEOUS FORTUNE --- GRENADE LAUNCHER -----
 dimwishlist:item=4146702548
+
 //----- SWARM OF THE RAVEN --- GRENADE LAUNCHER -----
 dimwishlist:item=1972985595
+
 //----- BAD OMENS --- ROCKET LAUNCHER -----
-dimwishlist:item=-991314988
-dimwishlist:item=991314988&perks=3300816228
+dimwishlist:item=991314988
+
 //----- HOOSEGOW --- ROCKET LAUNCHER -----
 dimwishlist:item=3669616453
+
 //----- SHINING SPHERE --- ROCKET LAUNCHER -----
 dimwishlist:item=136525518
+
 //----- TOMORROW'S ANSWER --- ROCKET LAUNCHER -----
 dimwishlist:item=958384347
+
 //----- TOMORROW'S ANSWER (ADEPT) --- ROCKET LAUNCHER -----
 dimwishlist:item=1366917989
+
 //----- FALLING GUILLOTINE --- SWORD -----
 dimwishlist:item=614426548
+
 //----- NEGATIVE SPACE --- SWORD -----
 dimwishlist:item=3629968765
+
 //----- STEEL SYBIL Z-14 --- SWORD -----
 dimwishlist:item=4230993599
+
 //----- TEMPTATION'S HOOK --- SWORD -----
 dimwishlist:item=35794111
-
-
 
 
 
@@ -219,37 +307,51 @@ dimwishlist:item=35794111
 //–––– MAX POWER 1310 ––––
 //----- SEVENTH SERAPH CARBINE --- AUTO RIFLE -----
 dimwishlist:item=1561006927
+
 //----- DIRE PROMISE --- HAND CANNON -----
 dimwishlist:item=2742838701
+
 //----- SEVENTH SERAPH OFFICER REVOLVER --- HAND CANNON -----
 dimwishlist:item=3037520408
+
 //----- TRUE PROPHECY --- HAND CANNON -----
 dimwishlist:item=2742838700
+
 //----- ENIGMA'S DRAW --- SIDEARM -----
 dimwishlist:item=1723380073
+
 //----- ESCAPE VELOCITY --- SUBMACHINE GUN -----
-dimwishlist:item=-1786797708
+dimwishlist:item=1786797708
+
 //----- POINT OF THE STAG --- COMBAT BOW -----
 dimwishlist:item=3434944005
+
 //----- TIMELINES' VERTEX --- FUSION RIFLE -----
 dimwishlist:item=3055192515
+
 //----- JIAN 7 RIFLE --- PULSE RIFLE -----
+
 dimwishlist:item=-1162247618
 //----- FELWINTER'S LIE --- SHOTGUN -----
+
 dimwishlist:item=-1179141605
 //----- SEVENTH SERAPH CQC-12 --- SHOTGUN -----
+
 dimwishlist:item=-1821724780
 //----- SEVENTH SERAPH SI-2 --- SIDEARM -----
 dimwishlist:item=3937866388
+
 //----- DISTANT TUMULUS --- SNIPER RIFLE -----
 dimwishlist:item=2807687156
+
 //----- SEVENTH SERAPH VY-7 --- SUBMACHINE GUN -----
-dimwishlist:item=766323545
+
+dimwishlist:item=-766323545
 //----- INTERFERENCE VI --- GRENADE LAUNCHER -----
-dimwishlist:item=-2257180473
-dimwishlist:item=2257180473&perks=3300816228
+dimwishlist:item=2257180473
+
 //----- SEVENTH SERAPH SAW --- MACHINE GUN -----
 dimwishlist:item=2582755344
+
 //----- HONOR'S EDGE --- SWORD -----
 dimwishlist:item=2857348871
-
