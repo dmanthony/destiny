@@ -6,10 +6,10 @@ dimwishlist:item=253196586&perks=984527513
 
 
 
+
+
+
 //–––– MAX POWER 1410 ––––
-
-
-
 //----- ACCRUED REDEMPTION --- COMBAT BOW -----
 dimwishlist:item=4095896073
 //----- BITING WINDS --- COMBAT BOW -----
@@ -51,7 +51,7 @@ dimwishlist:item=4094657108
 //----- ZEALOT'S REWARD --- FUSION RIFLE -----
 dimwishlist:item=2209003210
 //----- DEAFENING WHISPER --- GRENADE LAUNCHER -----
-dimwishlist:item=981718087&perks=3300816228
+dimwishlist:item=981718087
 //----- ANCIENT GOSPEL --- HAND CANNON -----
 dimwishlist:item=48643186
 //----- NATION OF BEASTS --- HAND CANNON -----
@@ -97,10 +97,11 @@ dimwishlist:item=3366545721
 
 
 
+
+
+
+
 //–––– MAX POWER 1360 ––––
-
-
-
 //----- BRAYTECH WEREWOLF --- AUTO RIFLE -----
 dimwishlist:item=528834068
 //----- FALSE PROMISES --- AUTO RIFLE -----
@@ -190,7 +191,7 @@ dimwishlist:item=4146702548
 //----- SWARM OF THE RAVEN --- GRENADE LAUNCHER -----
 dimwishlist:item=1972985595
 //----- BAD OMENS --- ROCKET LAUNCHER -----
-dimwishlist:item=991314988&perks=3300816228
+"dimwishlist:item=-991314988 dimwishlist:item=991314988&perks=3300816228"
 //----- HOOSEGOW --- ROCKET LAUNCHER -----
 dimwishlist:item=3669616453
 //----- SHINING SPHERE --- ROCKET LAUNCHER -----
@@ -210,9 +211,42 @@ dimwishlist:item=35794111
 
 
 
-//–––– NO WAY JOSE ––––
 
 
 
-dimwishlist:item=-991314988&perks=-3977735242
-dimwishlist:item=-991314988
+
+//–––– MAX POWER 1310 ––––
+//----- SEVENTH SERAPH CARBINE --- AUTO RIFLE -----
+dimwishlist:item=1561006927
+//----- DIRE PROMISE --- HAND CANNON -----
+dimwishlist:item=2742838701
+//----- SEVENTH SERAPH OFFICER REVOLVER --- HAND CANNON -----
+dimwishlist:item=3037520408
+//----- TRUE PROPHECY --- HAND CANNON -----
+dimwishlist:item=2742838700
+//----- ENIGMA'S DRAW --- SIDEARM -----
+dimwishlist:item=1723380073
+//----- ESCAPE VELOCITY --- SUBMACHINE GUN -----
+dimwishlist:item=-1786797708
+//----- POINT OF THE STAG --- COMBAT BOW -----
+dimwishlist:item=3434944005
+//----- TIMELINES' VERTEX --- FUSION RIFLE -----
+dimwishlist:item=3055192515
+//----- JIAN 7 RIFLE --- PULSE RIFLE -----
+dimwishlist:item=-1162247618
+//----- FELWINTER'S LIE --- SHOTGUN -----
+dimwishlist:item=-1179141605
+//----- SEVENTH SERAPH CQC-12 --- SHOTGUN -----
+dimwishlist:item=-1821724780
+//----- SEVENTH SERAPH SI-2 --- SIDEARM -----
+dimwishlist:item=3937866388
+//----- DISTANT TUMULUS --- SNIPER RIFLE -----
+dimwishlist:item=2807687156
+//----- SEVENTH SERAPH VY-7 --- SUBMACHINE GUN -----
+dimwishlist:item=766323545
+//----- INTERFERENCE VI --- GRENADE LAUNCHER -----
+dimwishlist:item=2257180473
+//----- SEVENTH SERAPH SAW --- MACHINE GUN -----
+dimwishlist:item=2582755344
+//----- HONOR'S EDGE --- SWORD -----
+dimwishlist:item=2857348871
