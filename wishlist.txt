@@ -3,8 +3,54 @@ dimwishlist:item=1641430382&perks=2405638014,1561002382,706527188,1546637391
 
 dimwishlist:item=253196586
 
+//----- ----- SEASON 11 ----- -----
 
-//----- AUTO RIFLE  --- ARCTIC HAZE -----//----- AUTO RIFLE  --- ARCTIC HAZE -----
+//----- AUTO RIFLE  --- FALSE PROMISES -----
+dimwishlist:item=3143732432
+//----- AUTO RIFLE  --- THE FORWARD PATH -----
+dimwishlist:item=1690783811
+//----- COMBAT BOW  --- WHISPERING SLAB -----
+dimwishlist:item=211938782
+//----- FUSION RIFLE  --- HOLLOW WORDS -----
+dimwishlist:item=607191995
+//----- GRENADE LAUNCHER  --- BERENGER'S MEMORY -----
+dimwishlist:item=407621213
+//----- GRENADE LAUNCHER  --- TRUTHTELLER -----
+dimwishlist:item=1946491241
+//----- HAND CANNON  --- IKELOS_HC_V1.0.2 -----
+dimwishlist:item=1200824700
+//----- HAND CANNON  --- NATURE OF THE BEAST -----
+dimwishlist:item=1835747805
+//----- PULSE RIFLE  --- COLD DENIAL -----
+dimwishlist:item=-1216130969
+//----- ROCKET LAUNCHER  --- HOOSEGOW -----
+dimwishlist:item=3669616453
+//----- SHOTGUN  --- FIRST IN, LAST OUT -----
+dimwishlist:item=-3616586446
+//----- SHOTGUN  --- IKELOS_SG_V1.0.2 -----
+dimwishlist:item=-1096206669
+//----- SIDEARM  --- THE FOOL'S REMEDY -----
+dimwishlist:item=65611680
+//----- SNIPER RIFLE  --- IKELOS_SR_V1.0.2 -----
+dimwishlist:item=1253087083
+//----- SNIPER RIFLE  --- WIDOW'S BITE -----
+dimwishlist:item=1271343896
+//----- SUBMACHINE GUN  --- DEATH ADDER -----
+dimwishlist:item=-2742490609
+//----- SUBMACHINE GUN  --- IKELOS_SMG_V1.0.2 -----
+dimwishlist:item=-2222560548
+//----- SWORD  --- FALLING GUILLOTINE -----
+dimwishlist:item=614426548
+//----- SWORD  --- NEGATIVE SPACE -----
+dimwishlist:item=3629968765
+//----- SWORD  --- TEMPTATION'S HOOK -----
+dimwishlist:item=35794111
+
+
+
+//----- ----- SEASON 12 ----- -----
+
+//----- AUTO RIFLE  --- ARCTIC HAZE -----
 dimwishlist:item=20935540
 //----- AUTO RIFLE  --- THE SUMMONER (ADEPT) -----
 dimwishlist:item=3514144928
