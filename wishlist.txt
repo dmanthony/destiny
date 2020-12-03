@@ -191,8 +191,8 @@ dimwishlist:item=4146702548
 //----- SWARM OF THE RAVEN --- GRENADE LAUNCHER -----
 dimwishlist:item=1972985595
 //----- BAD OMENS --- ROCKET LAUNCHER -----
-dimwishlist:item=-991314988
 dimwishlist:item=991314988&perks=3300816228
+dimwishlist:item=-991314988
 //----- HOOSEGOW --- ROCKET LAUNCHER -----
 dimwishlist:item=3669616453
 //----- SHINING SPHERE --- ROCKET LAUNCHER -----
